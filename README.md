@@ -9,7 +9,7 @@ The School Run App is designed to streamline the daily drop-off and pick-up proc
 - Mohammad Afiq Iz’aan bin Mohd Ali
 - Wan Aiman bin Wan Ibrahim
 - Adam Khuarizmi bin Maszlan
-- 
+
 ## Video Demo
 
 [Watch our project demo here](https://youtu.be/zq2rcFwyIlo)
